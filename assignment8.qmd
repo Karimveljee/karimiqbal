@@ -1,0 +1,40 @@
+---
+title: "Assignment 8"
+format: html
+---
+
+## Census data and Spatial data
+
+1.  Read A Guide to Working with US Census Data in R - Task completed
+
+2.  Get an API key from Census using this website (http://api.census.gov/data/key_signup.html) - Task completed
+
+3.  Run spatialdata01.R and spatialdata02.R.
+
+    The script "spatialdata01.R" retrieves Census data concerning the median age for each U.S. state in 2019, utilizing the ggplot2 package for visualization. It then generates a thematic map displaying the variations in median age across different states in the U.S.
+
+    ![](images/8a.jpg){width="353"}
+
+    The script "spatialdata2" gathers and displays Census data regarding income in Texas, with a special focus on Dallas County for the year 2020. It employs a range of color intensities on the maps to represent various income levels in Texas and Dallas.
+
+    ![](images/8b.jpg){width="399"}
+
+    ![](images/8c.jpg){width="383"}
+
+4.  Compare different years of data (e.g. 2010 and 2020)
+
+    Year 2010
+
+    ![](images/8d.jpg){width="377"}
+
+    ![](images/8e.jpg){width="366"}
+
+    ![](images/8f.jpg){width="351"}
+
+    Year 2020
+
+    ![](images/8g.jpg){width="405"}
+
+    Note: Texas and Dallas income maps are already presented in Q3.
+
+    In the Dallas area, there's a noticeable overall uptick in income, particularly in the neighborhoods to the north of downtown Dallas. While incomes were fairly uniform in 2010, especially in the southern regions, more pronounced income disparities have emerged by 2020. The median age reported in the Census has shown little variation, with a marginally reduced median.

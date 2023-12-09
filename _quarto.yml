@@ -1,0 +1,33 @@
+project:
+  type: website
+  title: "Karimveljee"
+
+website:
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Assignment 1
+        href: assignment1.qmd
+      - text: Assignment 2
+        href: assignment2.qmd
+      - text: Assignment 3
+        href: assignment3.qmd
+      - text: Assignment 4
+        href: assignment4.qmd
+      - text: Assignment 5
+        href: assignment5.qmd
+      - text: Assignment 6
+        href: assignment6.qmd
+      - text: Assignment 7
+        href: assignment7.qmd
+      - text: Assignment 8
+        href: assignment8.qmd
+      - text: Research Proposal
+        href: research-proposal.qmd
+      - text: Research Paper
+        href: research-paper.qmd
+
+editor: visual

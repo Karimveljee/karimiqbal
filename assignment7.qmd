@@ -1,0 +1,24 @@
+---
+title: "Assignment 7"
+format: html
+---
+
+## Government data and parallel processing
+
+1.  Run govdata01.R and parallel01.R - Task completed
+
+2.  Start planning for storage and computational resources:
+
+    a.  Note the space and time taken
+
+    b.  Plan data management (e.g. database)
+
+        It took 10.462103 minutes to get 234 records and the total size of PDFs downloaded was 106509630 bytes.
+
+3.  Organize the data in data frames - Task completed.
+
+4.  Learn other data storage methods (e.g. arrow, feather, parquet)
+
+    After learning about these storage methods, I found that for large, complex datasets, Parquet is often the best choice due to its efficiency in storage and speed in analytics queries. For smaller datasets or when high-speed input output is more critical, Feather is a good choice.
+
+    If you need to share data between different programming languages or tools, Arrow provides a great platform due to its language-agnostic design.

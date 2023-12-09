@@ -1,0 +1,26 @@
+---
+title: "Assignment 6"
+format: html
+---
+
+## Webscraping
+
+1.  Task completed
+
+2.  Task completed
+
+    MLK
+
+    ![](images/Rplot.png){width="276"}
+
+    Churchill
+
+    ![](images/Assignment%206%20Churchill-01.jpg){width="309"}
+
+    Wikipedia
+
+    ![](images/Assignment%206%20Wiki-01.jpg)
+
+3.  Challenge: How to download multiple pdf/data files using webscraping methods?
+
+    To download multiple PDF or data files using web scraping methods, we need to identify the URLs of the files we want to download. This is typically done using a web scraping library like rvest in R to parse the HTML of the webpage and extract the URLs. Once we have the URLs, we can use a function like download.file() in R, in combination with a loop, to programmatically download each file.

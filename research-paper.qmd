@@ -1,0 +1,8 @@
+---
+title: "Research Paper"
+format: html
+---
+
+## Research Project
+
+\[Research Project\](pdfs/goodland_finalproject.pdf)

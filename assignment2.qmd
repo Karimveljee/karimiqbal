@@ -1,0 +1,38 @@
+---
+title: "Assignment 2"
+format: html
+---
+
+## Qualtrics, Google Trends, and gtrendsR
+
+A. Building a Qualtrics Panel
+
+1\. Task completed
+
+2\. Task completed
+
+B. Google Trends data
+
+a\. Use Google Trends website to:
+
+i\. Search Trump, Biden and Election - Task completed
+
+ii\. Download the data
+
+![](images/Assignment2-01.jpg){width="442"}
+
+1\. Analyze the data
+
+DatesIn the period analyzed from 10/10/2018 to 10/10/2023, the most searches for Trump, Biden, and election happened during the first week of November 2020, which is right before the presidential election. Two other spikes are seen around Jan 6th events and the mid-term elections in November 2022.
+
+Intervals
+
+The intervals between peaks are irregular, but the most notable peaks align with important political events, such as elections. The data shows seasonal trends with higher search interest around the time of elections and significant political events.
+
+b\. Use gtrendsR package to do a. (use gtrendsR01.R program)
+
+![](images/Assignment2%20gtrendsR-01.jpg){width="377"}
+
+c\. What are the differences between the two methods?
+
+Google Trends provides an intuitive web interface that allows users to easily visualize search interest over time and download data, but for deeper analysis or data manipulation, one must use external tools. In contrast, gtrendsR allows for direct data manipulation and complex analyses, leveraging R's statistical capabilities. While Google Trends offers a simple and direct way to look at trends, gtrendsR provides more flexibility in data presentation, enabling users to customize plots extensively and integrate Google Trends data with other datasets for comprehensive analysis.

@@ -1,0 +1,36 @@
+---
+title: "Assignment 3"
+format: html
+---
+
+## Text Analytics using quanteda
+
+1.  Read about the package quanteda at https://quanteda.io/ - Task completed
+
+2.  Download quanteda_textanalytics01.R from Teams - Task completed
+
+3.  Analyze:
+
+    a.  Biden-Xi summit data
+
+        Quanteda package tokenized the tweets, created a document-feature matrix, and applied Latent Semantic Analysis to uncover underlying patterns in the text data. It identified and analyzed the most frequent hashtags and user mentions, providing a network visualization of these elements. The provided dataset is a comprehensive collection of Twitter data focused on the summit between US President Biden and Chinese President Xi Jinping in November 2021. It features over 1,000 observations, each representing a Twitter post. These posts include direct tweets, quotes, and retweets related to articles discussing the two leaders. The data also contains user information, such as the names of the individuals tweeting.
+
+        ![](images/Assignment%203a-01.jpg){width="337"}
+
+        ![](images/Assignment3a1-01.png){width="382"}
+
+    b.  US presidential inaugural speeches
+
+        This dataset comprises records of US presidential inaugural addresses from President Eisenhower's era through to President Trump's tenure. Graphical representations within the dataset illustrate the prevalence of specific terms like "people," "American," and "communist" across these speeches.
+
+        i.  Any similarities and differences over time and among presidents?
+
+            The lexical dispersion analysis of U.S. presidential inaugural speeches from Eisenhower to Biden shows that the usage of "American" has become more frequent in recent administrations, suggesting a contemporary emphasis on national identity, while the term "people" consistently figures across speeches, underscoring a constant focus on democratic values.
+
+            ![](images/Assignment%203.jpg){width="354"}
+
+            The word "American" was seldom used in the past but saw a notable rise starting with Clinton's administration, indicating a shift in presidential rhetoric toward patriotism. Additionally, the term "communist" saw heightened usage during the Nixon and Reagan eras, aligning with the peak of the Red Scare, reflecting the socio-political concerns of the times.
+
+4.  What is Wordfish? (Do research on quanteda website)
+
+    Wordfish is a method used for analyzing texts in a one-dimensional framework, primarily focusing on how frequently words occur within documents. This technique is adept at assessing the positioning of documents on a singular axis, such as an ideological spectrum. By evaluating the usage frequency of specific words, Wordfish helps in organizing and interpreting data, as exemplified in the analysis of inaugural speech data.

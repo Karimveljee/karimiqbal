@@ -1,0 +1,58 @@
+---
+title: "Assignment 1"
+format: html
+---
+
+## Qualtrics
+
+1.  Setting up - Task completed
+
+    Movie survey:
+
+    https://utdallas.yul1.qualtrics.com/jfe/preview/previewId/ef333f5a-069d-4a36-84e0-94267b93569b/SV_1Y5C1O1w7WX8Zi6?Q_CHL=preview&Q_SurveyVersionID=current
+
+2.  Analyze survey
+
+    a.  How is the survey structured?
+
+        The questionnaire primarily employs Multiple Choice (MC) questions, supplemented by a Descriptive Block (DB) and a Matrix question. The DB serves as an introductory segment, providing context but not soliciting data. The MC questions, forming the survey's core, offer predefined choices for concise response gathering. An example includes querying preferences between purchasing or renting movies. The Matrix question, distinct in its format, allows for the simultaneous assessment of various service aspects, streamlining comparative analysis within a singular framework. This combination of question types facilitates an efficient yet comprehensive data collection approach.
+
+    b.  What is the questionnaire composed of?
+
+        The questionnaire of this survey strikes a balance in its composition, primarily utilizing two types of questions. It includes descriptive text blocks, which serve to provide essential instructions or contextual information to the respondents, effectively setting the stage for the survey. Alongside these, the survey incorporates multiple-choice (MC) questions. These questions ask respondents to select from a set of predefined options, offering a clear and structured way to gather data. This combination of descriptive guidance and specific, choice-based questions ensures both clarity and ease of participation, crucial for effective data gathering in a survey context.
+
+    c.  How are the questions ordered?
+
+        The questions are ordered logically, starting with a descriptive text block that likely serves as an introduction or instructions to the respondents. This is followed by multiple-choice questions covering different aspects of movie rental experiences. The questions seem to be grouped by theme, progressing in a way that maintains a logical flow and coherence in the survey.
+
+        This analysis is based on the initial elements and the first few questions. For a more detailed understanding, a deeper analysis of each question and its specific content would be necessary.
+
+    d.  Task completed
+
+3.  Task completed
+
+4.  Task completed
+
+5.  Task completed
+
+6.  Task completed
+
+7.  What can be done to improve respondent's experience?
+
+    To enhance the respondent experience, a few adjustments could be beneficial. First, considering the survey has 18 questions, ensuring relevance of each question is key to maintain respondent engagement. Additionally, including a few open-ended questions could provide richer, qualitative insights, as the current survey lacks 'Text Entry' (TE) type questions. Finally, for questions with more than five options, simplifying choices or using a drop-down format could help prevent respondent fatigue and make the survey more user-friendly.
+
+    Further Assignment
+
+<!-- -->
+
+1.  Task completed
+
+2.  Task completed
+
+3.  Task completed
+
+4.  The question delves into demographics beyond just race and ethnicity, probing into aspects like socioeconomic status and highest level of education. This approach enables a more comprehensive understanding of diversity and inclusion. By gaining insights into these deeper demographic facets, it becomes possible to draw nuanced conclusions about the respondents' backgrounds and how these relate to their perspectives on diversity and inclusiveness.
+
+    The diversity and inclusiveness survey is more structured, provides more definitions and information to the survey respondent so that they select the relevant and correct option in the questionnaire.
+
+DEI Survey: https://utdallas.qualtrics.com/jfe/form/SV_9WQuxgGAeWmOFaS

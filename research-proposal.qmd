@@ -1,0 +1,8 @@
+---
+title: "Research Proposal"
+format: html
+---
+
+## Research Proposal
+
+\[Research Proposal\](pdfs/goodland_researchproposal.pdf)
